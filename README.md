@@ -2,5 +2,6 @@
 
 
 readme-edit
-testing
-hello world. i am trying out github for the first time. i use repl.it for coding
+Hello world.
+
+I am William and welcome to my Github page. Their not much here currently but check back later to see what I am working on.
